@@ -59,5 +59,3 @@ Built on top of the tables above.
   device serials, or original session IDs appear anywhere downstream.
 - Notebook outputs (query result tables) have been cleared before publishing.
   Only code, comments, and the dashboard screenshots are shared.
-- The dashboard screenshots still show the project's original working title;
-  the notebooks and this README use the current name.
